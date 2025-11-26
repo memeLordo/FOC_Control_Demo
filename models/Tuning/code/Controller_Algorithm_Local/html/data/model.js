@@ -1,0 +1,1 @@
+var modelInfo = {model:"Controller_Algorithm_Local"};var modelHierarchy=[{model:"Controller_Algorithm_Local",relativePath:"_internal.html",parent:"null"},];var AddCode = true;var ProtectedModel = false;

@@ -1,0 +1,5 @@
+-IC:/Users/Admin/Documents/MATLAB/Projects/FOC/FocZynq/Tuning
+-IC:/Users/Admin/Documents/MATLAB/Projects/FOC/FocZynq/Tuning/Controller_Algorithm_Local_sfcn_rtw
+-I"C:/Program Files/MATLAB/R2025b/extern/include"
+-I"C:/Program Files/MATLAB/R2025b/simulink/include"
+-I"C:/Program Files/MATLAB/R2025b/rtw/c/src"

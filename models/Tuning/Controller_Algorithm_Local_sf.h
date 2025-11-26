@@ -1,0 +1,7 @@
+#ifndef RTWSFCN_Controller_Algorithm_Local_sf_H
+#define RTWSFCN_Controller_Algorithm_Local_sf_H
+
+#include "code\Controller_Algorithm_Local\Controller_Algorithm_Local_sf.h"
+#include "code\Controller_Algorithm_Local\Controller_Algorithm_Local_sf_private.h"
+
+#endif
